@@ -1,0 +1,9 @@
+/* Spae between each category */
+.blocklyToolboxDiv .blocklyTreeRow {
+    margin-bottom: 10px; /* Adjust this value to increase or decrease spacing */
+}
+
+/* Change the background color of the hovered category */
+.blocklyToolboxDiv:hover .blocklyTreeRow:hover {
+    background-color: #464647; /* Change this to your desired background color */
+}
