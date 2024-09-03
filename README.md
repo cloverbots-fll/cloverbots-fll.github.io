@@ -1,2 +1,2 @@
-# PyBricks Blockly
-This program, once completed, will allow you to use Google's Blockly software to code a Spike PRIME robot in block code.
+# Blockly for PyBricks
+This program allows for the use of block code to program a robot in Python using the PyBricks library
